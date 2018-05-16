@@ -1,0 +1,7 @@
+C:\Users\cwong54\source\repos\Day4\Cans Ver.2.0\obj\Debug\Cans Ver.2.0.csproj.CoreCompileInputs.cache
+C:\Users\cwong54\source\repos\Day4\Cans Ver.2.0\obj\Debug\Cans Ver.2.0.csprojResolveAssemblyReference.cache
+C:\Users\cwong54\source\repos\Day4\Cans Ver.2.0\bin\Debug\Cans Ver.2.0.exe.config
+C:\Users\cwong54\source\repos\Day4\Cans Ver.2.0\bin\Debug\Cans Ver.2.0.exe
+C:\Users\cwong54\source\repos\Day4\Cans Ver.2.0\bin\Debug\Cans Ver.2.0.pdb
+C:\Users\cwong54\source\repos\Day4\Cans Ver.2.0\obj\Debug\Cans Ver.2.0.exe
+C:\Users\cwong54\source\repos\Day4\Cans Ver.2.0\obj\Debug\Cans Ver.2.0.pdb

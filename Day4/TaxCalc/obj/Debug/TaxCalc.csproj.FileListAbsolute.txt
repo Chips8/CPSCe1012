@@ -1,0 +1,7 @@
+C:\Users\cwong54\source\repos\Day4\TaxCalc\bin\Debug\TaxCalc.exe.config
+C:\Users\cwong54\source\repos\Day4\TaxCalc\bin\Debug\TaxCalc.exe
+C:\Users\cwong54\source\repos\Day4\TaxCalc\bin\Debug\TaxCalc.pdb
+C:\Users\cwong54\source\repos\Day4\TaxCalc\obj\Debug\TaxCalc.csproj.CoreCompileInputs.cache
+C:\Users\cwong54\source\repos\Day4\TaxCalc\obj\Debug\TaxCalc.exe
+C:\Users\cwong54\source\repos\Day4\TaxCalc\obj\Debug\TaxCalc.pdb
+C:\Users\cwong54\source\repos\Day4\TaxCalc\obj\Debug\TaxCalc.csprojResolveAssemblyReference.cache

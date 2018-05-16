@@ -1,0 +1,6 @@
+C:\Users\cwong54\source\repos\Day4\TaxCalc\obj\Release\TaxCalc.csproj.CoreCompileInputs.cache
+C:\Users\cwong54\source\repos\Day4\TaxCalc\bin\Release\TaxCalc.exe.config
+C:\Users\cwong54\source\repos\Day4\TaxCalc\bin\Release\TaxCalc.exe
+C:\Users\cwong54\source\repos\Day4\TaxCalc\bin\Release\TaxCalc.pdb
+C:\Users\cwong54\source\repos\Day4\TaxCalc\obj\Release\TaxCalc.exe
+C:\Users\cwong54\source\repos\Day4\TaxCalc\obj\Release\TaxCalc.pdb
