@@ -1,0 +1,6 @@
+C:\Users\cwong54\source\repos\Day3Demos\CansMath\obj\Debug\CansMath.csproj.CoreCompileInputs.cache
+C:\Users\cwong54\source\repos\Day3Demos\CansMath\bin\Debug\CansMath.exe.config
+C:\Users\cwong54\source\repos\Day3Demos\CansMath\bin\Debug\CansMath.exe
+C:\Users\cwong54\source\repos\Day3Demos\CansMath\bin\Debug\CansMath.pdb
+C:\Users\cwong54\source\repos\Day3Demos\CansMath\obj\Debug\CansMath.exe
+C:\Users\cwong54\source\repos\Day3Demos\CansMath\obj\Debug\CansMath.pdb
