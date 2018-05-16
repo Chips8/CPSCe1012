@@ -1,0 +1,7 @@
+C:\Users\cwong54\source\repos\Day3Demos\FirstVariables\bin\Debug\FirstVariables.exe.config
+C:\Users\cwong54\source\repos\Day3Demos\FirstVariables\bin\Debug\FirstVariables.exe
+C:\Users\cwong54\source\repos\Day3Demos\FirstVariables\bin\Debug\FirstVariables.pdb
+C:\Users\cwong54\source\repos\Day3Demos\FirstVariables\obj\Debug\FirstVariables.csprojResolveAssemblyReference.cache
+C:\Users\cwong54\source\repos\Day3Demos\FirstVariables\obj\Debug\FirstVariables.csproj.CoreCompileInputs.cache
+C:\Users\cwong54\source\repos\Day3Demos\FirstVariables\obj\Debug\FirstVariables.exe
+C:\Users\cwong54\source\repos\Day3Demos\FirstVariables\obj\Debug\FirstVariables.pdb

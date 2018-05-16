@@ -1,0 +1,7 @@
+C:\Users\cwong54\source\repos\Day3Demos\StringStuff\bin\Debug\StringStuff.exe.config
+C:\Users\cwong54\source\repos\Day3Demos\StringStuff\bin\Debug\StringStuff.exe
+C:\Users\cwong54\source\repos\Day3Demos\StringStuff\bin\Debug\StringStuff.pdb
+C:\Users\cwong54\source\repos\Day3Demos\StringStuff\obj\Debug\StringStuff.csproj.CoreCompileInputs.cache
+C:\Users\cwong54\source\repos\Day3Demos\StringStuff\obj\Debug\StringStuff.exe
+C:\Users\cwong54\source\repos\Day3Demos\StringStuff\obj\Debug\StringStuff.pdb
+C:\Users\cwong54\source\repos\Day3Demos\StringStuff\obj\Debug\StringStuff.csprojResolveAssemblyReference.cache

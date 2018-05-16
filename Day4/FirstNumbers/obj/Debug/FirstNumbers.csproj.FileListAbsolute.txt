@@ -1,0 +1,6 @@
+C:\Users\cwong54\source\repos\Day3Demos\FirstNumbers\bin\Debug\FirstNumbers.exe.config
+C:\Users\cwong54\source\repos\Day3Demos\FirstNumbers\bin\Debug\FirstNumbers.exe
+C:\Users\cwong54\source\repos\Day3Demos\FirstNumbers\bin\Debug\FirstNumbers.pdb
+C:\Users\cwong54\source\repos\Day3Demos\FirstNumbers\obj\Debug\FirstNumbers.csproj.CoreCompileInputs.cache
+C:\Users\cwong54\source\repos\Day3Demos\FirstNumbers\obj\Debug\FirstNumbers.exe
+C:\Users\cwong54\source\repos\Day3Demos\FirstNumbers\obj\Debug\FirstNumbers.pdb

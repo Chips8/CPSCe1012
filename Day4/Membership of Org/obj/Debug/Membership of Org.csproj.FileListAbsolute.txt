@@ -1,0 +1,7 @@
+C:\Users\cwong54\source\repos\Day3Demos\Membership of Org\obj\Debug\Membership of Org.csprojResolveAssemblyReference.cache
+C:\Users\cwong54\source\repos\Day3Demos\Membership of Org\obj\Debug\Membership of Org.csproj.CoreCompileInputs.cache
+C:\Users\cwong54\source\repos\Day3Demos\Membership of Org\bin\Debug\Membership of Org.exe.config
+C:\Users\cwong54\source\repos\Day3Demos\Membership of Org\bin\Debug\Membership of Org.exe
+C:\Users\cwong54\source\repos\Day3Demos\Membership of Org\bin\Debug\Membership of Org.pdb
+C:\Users\cwong54\source\repos\Day3Demos\Membership of Org\obj\Debug\Membership of Org.exe
+C:\Users\cwong54\source\repos\Day3Demos\Membership of Org\obj\Debug\Membership of Org.pdb

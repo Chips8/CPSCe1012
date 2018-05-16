@@ -1,0 +1,7 @@
+C:\Users\cwong54\source\repos\Day3Demos\OriginalPrice\bin\Debug\OriginalPrice.exe.config
+C:\Users\cwong54\source\repos\Day3Demos\OriginalPrice\bin\Debug\OriginalPrice.exe
+C:\Users\cwong54\source\repos\Day3Demos\OriginalPrice\bin\Debug\OriginalPrice.pdb
+C:\Users\cwong54\source\repos\Day3Demos\OriginalPrice\obj\Debug\OriginalPrice.csprojResolveAssemblyReference.cache
+C:\Users\cwong54\source\repos\Day3Demos\OriginalPrice\obj\Debug\OriginalPrice.csproj.CoreCompileInputs.cache
+C:\Users\cwong54\source\repos\Day3Demos\OriginalPrice\obj\Debug\OriginalPrice.exe
+C:\Users\cwong54\source\repos\Day3Demos\OriginalPrice\obj\Debug\OriginalPrice.pdb
