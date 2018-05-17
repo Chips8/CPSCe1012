@@ -1,0 +1,7 @@
+C:\Users\cwong54\source\repos\Day5\Course Mark\bin\Debug\Course Mark.exe.config
+C:\Users\cwong54\source\repos\Day5\Course Mark\bin\Debug\Course Mark.exe
+C:\Users\cwong54\source\repos\Day5\Course Mark\bin\Debug\Course Mark.pdb
+C:\Users\cwong54\source\repos\Day5\Course Mark\obj\Debug\Course Mark.csprojResolveAssemblyReference.cache
+C:\Users\cwong54\source\repos\Day5\Course Mark\obj\Debug\Course Mark.csproj.CoreCompileInputs.cache
+C:\Users\cwong54\source\repos\Day5\Course Mark\obj\Debug\Course Mark.exe
+C:\Users\cwong54\source\repos\Day5\Course Mark\obj\Debug\Course Mark.pdb

@@ -1,0 +1,7 @@
+C:\Users\cwong54\source\repos\Day5\Km to Miles Convertor\obj\Debug\Km to Miles Convertor.csproj.CoreCompileInputs.cache
+C:\Users\cwong54\source\repos\Day5\Km to Miles Convertor\bin\Debug\Km to Miles Convertor.exe.config
+C:\Users\cwong54\source\repos\Day5\Km to Miles Convertor\bin\Debug\Km to Miles Convertor.exe
+C:\Users\cwong54\source\repos\Day5\Km to Miles Convertor\bin\Debug\Km to Miles Convertor.pdb
+C:\Users\cwong54\source\repos\Day5\Km to Miles Convertor\obj\Debug\Km to Miles Convertor.exe
+C:\Users\cwong54\source\repos\Day5\Km to Miles Convertor\obj\Debug\Km to Miles Convertor.pdb
+C:\Users\cwong54\source\repos\Day5\Km to Miles Convertor\obj\Debug\Km to Miles Convertor.csprojResolveAssemblyReference.cache

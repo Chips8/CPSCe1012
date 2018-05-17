@@ -1,0 +1,7 @@
+C:\Users\cwong54\source\repos\Day5\Rectangle Volume Calculator\obj\Debug\Rectangle Volume Calculator.csprojResolveAssemblyReference.cache
+C:\Users\cwong54\source\repos\Day5\Rectangle Volume Calculator\obj\Debug\Rectangle Volume Calculator.csproj.CoreCompileInputs.cache
+C:\Users\cwong54\source\repos\Day5\Rectangle Volume Calculator\bin\Debug\Rectangle Volume Calculator.exe.config
+C:\Users\cwong54\source\repos\Day5\Rectangle Volume Calculator\bin\Debug\Rectangle Volume Calculator.exe
+C:\Users\cwong54\source\repos\Day5\Rectangle Volume Calculator\bin\Debug\Rectangle Volume Calculator.pdb
+C:\Users\cwong54\source\repos\Day5\Rectangle Volume Calculator\obj\Debug\Rectangle Volume Calculator.exe
+C:\Users\cwong54\source\repos\Day5\Rectangle Volume Calculator\obj\Debug\Rectangle Volume Calculator.pdb
