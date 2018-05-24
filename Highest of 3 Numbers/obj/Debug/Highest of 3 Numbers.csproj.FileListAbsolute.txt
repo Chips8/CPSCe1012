@@ -1,0 +1,7 @@
+C:\Users\cwong54\source\repos\Day 7\Highest of 3 Numbers\bin\Debug\Highest of 3 Numbers.exe.config
+C:\Users\cwong54\source\repos\Day 7\Highest of 3 Numbers\bin\Debug\Highest of 3 Numbers.exe
+C:\Users\cwong54\source\repos\Day 7\Highest of 3 Numbers\bin\Debug\Highest of 3 Numbers.pdb
+C:\Users\cwong54\source\repos\Day 7\Highest of 3 Numbers\obj\Debug\Highest of 3 Numbers.csprojResolveAssemblyReference.cache
+C:\Users\cwong54\source\repos\Day 7\Highest of 3 Numbers\obj\Debug\Highest of 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\cwong54\source\repos\Day 7\Highest of 3 Numbers\obj\Debug\Highest of 3 Numbers.exe
+C:\Users\cwong54\source\repos\Day 7\Highest of 3 Numbers\obj\Debug\Highest of 3 Numbers.pdb

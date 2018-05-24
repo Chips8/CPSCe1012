@@ -1,0 +1,6 @@
+C:\Users\cwong54\source\repos\Day 7\Highest of 2 Numbers\bin\Debug\Highest of 2 Numbers.exe.config
+C:\Users\cwong54\source\repos\Day 7\Highest of 2 Numbers\bin\Debug\Highest of 2 Numbers.exe
+C:\Users\cwong54\source\repos\Day 7\Highest of 2 Numbers\bin\Debug\Highest of 2 Numbers.pdb
+C:\Users\cwong54\source\repos\Day 7\Highest of 2 Numbers\obj\Debug\Highest of 2 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\cwong54\source\repos\Day 7\Highest of 2 Numbers\obj\Debug\Highest of 2 Numbers.exe
+C:\Users\cwong54\source\repos\Day 7\Highest of 2 Numbers\obj\Debug\Highest of 2 Numbers.pdb

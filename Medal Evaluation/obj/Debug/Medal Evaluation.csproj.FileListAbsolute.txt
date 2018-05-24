@@ -1,0 +1,7 @@
+C:\Users\cwong54\source\repos\Day 7\Medal Evaluation\bin\Debug\Medal Evaluation.exe.config
+C:\Users\cwong54\source\repos\Day 7\Medal Evaluation\bin\Debug\Medal Evaluation.exe
+C:\Users\cwong54\source\repos\Day 7\Medal Evaluation\bin\Debug\Medal Evaluation.pdb
+C:\Users\cwong54\source\repos\Day 7\Medal Evaluation\obj\Debug\Medal Evaluation.csprojResolveAssemblyReference.cache
+C:\Users\cwong54\source\repos\Day 7\Medal Evaluation\obj\Debug\Medal Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\cwong54\source\repos\Day 7\Medal Evaluation\obj\Debug\Medal Evaluation.exe
+C:\Users\cwong54\source\repos\Day 7\Medal Evaluation\obj\Debug\Medal Evaluation.pdb

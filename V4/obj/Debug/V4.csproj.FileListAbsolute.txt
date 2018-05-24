@@ -1,0 +1,6 @@
+C:\Users\cwong54\source\repos\Day 7\V4\obj\Debug\V4.csproj.CoreCompileInputs.cache
+C:\Users\cwong54\source\repos\Day 7\V4\bin\Debug\V4.exe.config
+C:\Users\cwong54\source\repos\Day 7\V4\bin\Debug\V4.exe
+C:\Users\cwong54\source\repos\Day 7\V4\bin\Debug\V4.pdb
+C:\Users\cwong54\source\repos\Day 7\V4\obj\Debug\V4.exe
+C:\Users\cwong54\source\repos\Day 7\V4\obj\Debug\V4.pdb
