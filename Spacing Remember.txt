@@ -1,0 +1,16 @@
+ //Integer always removes the decimal places!
+            int num = -2469;
+            num = num % 1000 / 10;
+            Console.WriteLine(num);
+//Result = -46
+if positive num instead = 46
+
+
+
+            int count = 1;
+            int unitPrice = 10;
+            Console.WriteLine("{0,16}{1,11:C2}", count, unitPrice * count);
+            Console.WriteLine($"{count,16}{unitPrice * count, 11:C2}");
+            //List uses a lot more Processing power than Arrays
+
+            Console.ReadLine();
