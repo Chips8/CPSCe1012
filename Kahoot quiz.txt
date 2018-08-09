@@ -1,0 +1,18 @@
+hive for the hardware configuration of the local computer is: HKLM* , KCU, HKHW, CLI
+How the apps are gonna start up
+
+
+The grouping of different cateogories of registry information is known as : Hives*, files, pods, hierarchy
+
+In the regristry, data type is dependant on what type of information the key values hold: True.
+
+Process of restoring critical functionality and data afte renterprise-wide outage: Disaster Recovery*, system restore:Personal, safe mode:Personal, business continuity: Network
+
+Which of these is a medium that can be used for a backups? Tapes, Hard Drive, DVD/Blue Ray, USB, Cloud
+
+A tested, cumulative set of all hotfixes, security updates, critical updates, and updates: Service packs*, critical update, feature update, definition update
+The archived bit is cleared after doing: differential, incremental, full back ups, both incremental and full back ups*
+System reastore feature will restore: registry files & system files, NO data files
+CPU, ram, storage & network can be shared
+
+cloud deployment models include = private, hybrid(combo of private and public), community
