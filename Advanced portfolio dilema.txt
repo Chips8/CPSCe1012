@@ -1,0 +1,47 @@
+//You need to understand the foundations to get the job done
+//How does a list work?
+//How does classes work?
+Classes are used to create an object to take on the blueprint
+The blueprint in this case is the: Expense
+
+Then the ExpenseManager is the Methods, hence the actions to work with the Expense
+Everything is brought together in the MAIN
+
+To be able to Export and Import Data we must use Reader and Writer
+
+To View, Remove, and Edit Expense we require an index, a way to find out where the information lies.
+Information is figured out through "View".
+Once user views it, they can figure out the index it is stored in.
+
+How to add information to the class Expense?
+form an object through Expense's blueprint, hence inheriting it.
+Then how do we keep track of it?
+Through the name?
+The difference is that we need to be able to allow it to sort, so Array is not going to work. As arrays are pretty much hard coded to it's index.
+Advantages of Expense is that it doesn't need to announce it's size, it automatically creates it's size.
+
+MAIN:
+we will prompt the user for input and store it into variables of the blueprint, hence properties of the blueprint will be different.
+TO add properties we use the object's name to make it clear where we want these changes to be done.
+Example:
+Expense object1 = new Expense();
+//Exactly the same when we used new Random();
+object1.date = date;
+//assume date has a value
+// assume that date is announced in the class file
+
+Now we have to worry about index
+How do we send information from one class to the other?
+
+how to target a specific list? should be like an array?
+How add in a list:
+List<int> a = new List<int> { 1, 2, 3 };
+or 
+List<int> temp = new List<int>();
+temp.Add(1);
+temp.Add(2);
+temp.Add(3);
+List<int> a = temp;
+
+how to allow user to access information from list and edit it?
+
